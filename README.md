@@ -14,7 +14,7 @@ If you are on Windows
 ./<yourenv>/Scripts/activate
 ```
 
-If you are on UNIX devices
+- If you are on UNIX devices
 ```
 source <yourenv>/bin/activate
 ```
